@@ -1,0 +1,14 @@
+<?xml version ="1.0" encoding ="UTF-8"?>
+<!DOCTYPE book[
+<!ELEMENT book (bookname, author, price, pubdate)>
+<!ELEMENT bookname (#PCDATA)>
+<!ELEMENT author (#PCDATA)>
+<!ELEMENT price (#PCDATA)>
+<!ELEMENT pubdate (#PCDATA)>
+]>
+<book>
+<bookname> Gita </bookname>
+<author> Bedbyas </author>
+<price> 1500.00 </price>
+<pubdate> Dharmikgrantha publication </pubdate>
+</book>

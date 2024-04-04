@@ -1,0 +1,37 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+/*float four colums side by side */
+.column{
+    float: left;
+    width: 25%;
+    padding: 10px;
+}
+/*Remove extra left and right margins, due to padding */
+.row{margin: 0 -5px;}
+/*clear floats after columns*/
+.row:after{
+    content: "";
+    display: table;
+    clear: both;
+
+}
+@media screen and (max-width:60px){
+    .column{
+        width: 100%;
+        display: block;
+        margin-bottom: 20px;
+    }
+}
+/* style the counter cards*/
+.card{
+    box-shadow: 0 4px 8px 0 rgb(226, 43, 43);
+    padding: 16px;
+    text-align: center;
+    background-color: rgb(0, 128, 49);
+    border-radius: 30px 30px 30px 30px;
+}
+    

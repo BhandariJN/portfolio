@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<books>
+    <book>
+        <bookname> Gita </bookname>
+        <author> Bedbyas </author>
+        <price> 1500.00 </price>
+        <pubdate> Dharmikgrantha publication </pubdate>
+    </book>
+
+    <book>
+        <bookname> Physics </bookname>
+        <author> Mohan </author>
+        <price> 3500.00 </price>
+        <pubdate> Pandey Publication </pubdate>
+    </book>
+
+    <book>
+        <bookname> Mahabharat </bookname>
+        <author> Arjun </author>
+        <price> 2500.00 </price>
+        <pubdate> Asmita publication </pubdate>
+    </book>
+
+    <book>
+        <bookname> Ramayan </bookname>
+        <author> Kamal </author>
+        <price> 3500.00 </price>
+        <pubdate> Komal Prints </pubdate>
+    </book>
+
+    <book>
+        <bookname> Web Technology </bookname>
+        <author> Rajesh Maharjan </author>
+        <price> 500.00 </price>
+        <pubdate> Rasjesh publication </pubdate>
+    </book>
+
+    <book>
+        <bookname> Karna </bookname>
+        <author> Lalit </author>
+        <price> 200.00 </price>
+        <pubdate> pinkey pantar </pubdate>
+    </book>
+
+    <book>
+        <bookname> Newaribook </bookname>
+        <author> Suhel Maharjan </author>
+        <price> 680.00 </price>
+        <pubdate> Suhel publication </pubdate>
+    </book>
+
+    <book>
+        <bookname> Khas bhugol </bookname>
+        <author> Hemraj Roka </author>
+        <price> 6590.00 </price>
+        <pubdate> Bhumika publication </pubdate>
+    </book>
+
+    <book>
+        <bookname> Nikisha Chatak </bookname>
+        <author> Nikesh Shrestha </author>
+        <price> 3690.00 </price>
+        <pubdate> Nikisha publication </pubdate>
+    </book>
+
+    <book>
+
+        <bookname> Raute Bhugol </bookname>
+        <author> Aangkami Ghale </author>
+        <price> 3690.00 </price>
+        <pubdate> Raute publication </pubdate>
+    </book>
+
+    <book>
+        <bookname> Magar Community </bookname>
+        <author> Barshaman Pun </author>
+        <price> 2360.00 </price>
+        <pubdate> MAgar publication </pubdate>
+    </book>
+
+    <book>
+        <bookname> Mountains </bookname>
+        <author> Janak Publication </author>
+        <price> 1500.00 </price>
+        <pubdate> Janak publication </pubdate>
+    </book>
+</books>

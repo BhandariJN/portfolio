@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>
+        Create Note
+    </title>
+    <link rel="stylesheet" href="note.css">
+</head>
+<body>
+<div class="main">
+    <form action="note.php" method="GET" id="note">
+        <div class="date">
+            <label for="date">Date</label>
+            <input type="date" name="date" id="date" />
+        </div>
+        <div class="title">
+            <label for="title">Title</label>
+            <input type="text" name="title" id="title" placeholder="Enter title" />
+        </div>
+        <input type="hidden" name="username" value="JN" />
+        <div class="message">
+            <label for="note">Note</label>
+            <textarea name="note" id="note" placeholder="Enter your note here"></textarea>
+        </div>
+        <div class="submit">
+            <input type="submit" />
+        </div>
+        <div class="view">
+            <input type="button" action="viewnote.php" />
+    </form>
+</div>
+</body>
+</html>

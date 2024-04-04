@@ -1,0 +1,10 @@
+<?xml version ="1.0" encoding ="UTF-8"?>
+<book
+xmlns="http://www.w3schools.com"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.w3schools.com book.xsd">
+<bookname> Gita </bookname>
+<author> Bedbyas </author>
+<price> 15000 </price>
+<pubdate> 2023-12-15</pubdate>
+</book>

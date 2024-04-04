@@ -1,0 +1,30 @@
+body{
+    border: 1px;
+}
+#web{
+    text-align: justify;
+    font-size: 42px;
+    color: brown;
+    }
+h1 {
+    color: aqua;
+    text-align: justify
+}
+form{
+    background-color: ;
+    text-align: justify;
+        color: blueviolet;
+        font-size: 40px;
+}
+#F1{
+    size: 40px;
+}
+#listid{
+    color: purple;
+}
+#listd{
+    color: greenyellow;
+}
+h1::hover {
+    color: red;
+}

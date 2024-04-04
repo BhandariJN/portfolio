@@ -1,0 +1,41 @@
+body {
+    font-family: sans-serif;
+  }
+  
+  .main {
+    width: full;
+    margin: 0 auto;
+    background-color: aqua;
+    border-radius: 40px;
+  }
+  
+  .date, .title, .message, .submit {
+    margin-bottom: 10px;
+    padding: 40px;
+    border-radius: 20px;
+    width: 50%;
+    
+  }
+  
+  .date label, .title label, .message label {
+    display: block;
+    font-weight: bold;
+    align-content: center;
+  }
+  
+  .date input, .title input, .message textarea {
+    width: 50%;
+    padding: 10px;
+    border: 3px solid #272270;
+  }
+  
+  .submit input {
+    background-color: #337ab7;
+    color: rgb(39, 180, 110);
+    padding: 10px 20px;
+    border: 5px solid #272270;
+    cursor: pointer;
+  }
+   div.date{
+    align-content: center;
+   }

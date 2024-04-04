@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Lib SYSTEM "lib.dtd">
+<Lib>
+    <book>
+        <books>
+            <bname>Ramayan</bname>
+            <author>Balmiki</author>
+            <price>1500</price>
+            <pubdate>2053-05-02</pubdate>
+        </books>
+    </book>
+    <block>
+        <blocks>
+            <blockname> Block A</blockname>
+            <height>5'</height>
+            <width>15'</width>
+            <totalbook>500 </totalbook>
+        </blocks>
+    </block>
+    <libriain>
+            <fname> Hemraj</fname>
+            <lname>Roka</lname>
+            <doe>2044-5-25</doe>
+    </libriain>
+</Lib>
